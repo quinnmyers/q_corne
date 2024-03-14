@@ -16,6 +16,11 @@
             bindings = <&kp LCTRL>;
             key-positions = <12 13>;
         };
+
+        l_shift_pointer {
+            bindings = <&kp LSHIFT>;
+            key-positions = <4 5>;
+        };
     };
 
     keymap {
