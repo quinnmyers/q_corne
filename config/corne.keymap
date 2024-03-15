@@ -21,6 +21,11 @@
             bindings = <&kp LSHIFT>;
             key-positions = <4 5>;
         };
+
+        r_gui {
+            bindings = <&kp RIGHT_GUI>;
+            key-positions = <23 22>;
+        };
     };
 
     keymap {
